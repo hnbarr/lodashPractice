@@ -26,5 +26,13 @@ const objects = [
     },
 ]
 
-document.getElementById('chunkArr')
+document.getElementById('chunkArr').innerHTML = `names: [${names}]`
+
+document.getElementById('reverseArr').innerHTML = `colors: [${colors}]`
+
+document.getElementById('withoutArr').innerHTML = `nums: [${nums}]`
+
+document.getElementById('shuffleArr').innerHTML = `objects: [${objects}]`
+
+document.getElementById('pebblesArr').innerHTML = `colors: [${colors}]`
 
