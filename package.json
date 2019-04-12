@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hnbarr/lodashPractice/issues"
   },
-  "homepage": "https://github.com/hnbarr/lodashPractice#readme"
+  "homepage": "https://github.com/hnbarr/lodashPractice#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
